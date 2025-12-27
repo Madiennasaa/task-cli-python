@@ -5,7 +5,7 @@ Aplikasi command line interface (CLI) sederhana yang dibangun dengan Python untu
 ## Cara Menggunakan
 
 1. **Instalasi:** Pastikan Python sudah terinstal.
-2. **Jalankan:** Gunakan `python task_cli.py <aksi> [argumen]`.
+2. **Jalankan:** Gunakan `py taskCli.py <aksi> [argumen]`.
 
 ## Daftar Perintah
 
@@ -16,4 +16,4 @@ Aplikasi command line interface (CLI) sederhana yang dibangun dengan Python untu
 
 ## Project URL
 
-(Masukkan URL tugas/dokumen referensi di sini)
+https://github.com/Madiennasaa/task-cli-python
